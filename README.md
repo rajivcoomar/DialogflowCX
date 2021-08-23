@@ -5,7 +5,7 @@ DialogflowCX Competition
 - Import the file exported_agent_Covid19.blob by clicking on the Restore button inside of 3 dots.
 - Enable webhook by going into Manage -> Webhooks ->Enable. Click Save after the change.
 
-The bot is also hosted in the GCP app: https://scratchit.appspot.com
+The bot also available at: https://scratchit.appspot.com
 
 **Covering use case:**
 The Covid is unknown for all. It's been more than a year and each person on the planet earth is trying to find a solution and help in any possible way. The bot developed for Dialogflow CX completion is part of extending that help:
