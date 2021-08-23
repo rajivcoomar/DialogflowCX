@@ -40,7 +40,8 @@ _Information from Cowin_
 ![image](https://user-images.githubusercontent.com/32197733/130457287-79a3e35b-11d4-46ed-a4cb-24095de335c5.png)
 ![image](https://user-images.githubusercontent.com/32197733/130457340-3ac86395-21a5-481b-9f8d-8a71e27958e7.png)
 
-**Essential Items: **
+**Essential Items:**
+
 _Information from Flipkart URL's_
 
 ![image](https://user-images.githubusercontent.com/32197733/130457506-737b17fb-0cc7-428d-ad49-1b4cf7d4f3fa.png)
@@ -51,8 +52,10 @@ _Information from Flipkart Search response_
 
 ![image](https://user-images.githubusercontent.com/32197733/130457929-94d57b44-4aa0-4b53-92a7-98e81e9bd347.png)
 
-**FAQ: **
+**FAQ:**
+
 **English -** How will I know if I am eligible for vaccination? or Do I need to use the mask/other COVID-19?
+
 **Hindi -** क्या टीका लगवाने के कोई दुष्प्रभाव हैं? or क्या है कोरोना का डेल्टा वेरिएंट जो इसको और अधिक बनाता है घातक?
 
 _Information from AIIMS & Unicef_
